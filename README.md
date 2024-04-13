@@ -13,7 +13,7 @@ The Speech-to-Text Recognition modality enables you to transcribe spoken languag
 ### 3. Text-to-Speech Generation
 The Text-to-Speech Generation modality converts written text into spoken language. It employs sophisticated text-to-speech synthesis algorithms to produce natural-sounding speech from input text.
 
-## Screenshots
+## Results
 
 ![Home_Screen](bg_image/bg.png)
 ---
