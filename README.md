@@ -15,9 +15,9 @@ The Text-to-Speech Generation modality converts written text into spoken languag
 
 ## Screenshots
 
-![Text-to-Image Generation](tti.png)
-![Speech-to-Text Recognition](stt.png)
-![Text-to-Speech Generation](tts.png)
+![Text-to-Image Generation](bg_image/tti.png)
+![Speech-to-Text Recognition](bg_image/stt.png)
+![Text-to-Speech Generation](bg_image/tts.png)
 
 
 ## Documentation
