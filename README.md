@@ -24,6 +24,3 @@ The Text-to-Speech Generation modality converts written text into spoken languag
 For detailed documentation on each modality and instructions on how to use them, please visit our website: [Multimodal Toolkit Website]([https://www.example.com](https://orange-pond-05cc66c10.5.azurestaticapps.net/))
 
 
-## Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [email@example.com](mailto:email@example.com).
-
