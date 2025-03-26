@@ -33,6 +33,6 @@ The Text-to-Speech Generation modality converts written text into spoken languag
 
 
 ## Documentation
-For detailed documentation on each modality and instructions on how to use them, please visit our website: [Multimodal AI Toolkit](https://orange-pond-05cc66c10.5.azurestaticapps.net/)
+For detailed documentation on each modality and instructions on how to use them, please visit our website: [Multimodal AI Toolkit]([https://orange-pond-05cc66c10.5.azurestaticapps.net/](https://agreeable-dune-03d9e3510.4.azurestaticapps.net/))
 
 
